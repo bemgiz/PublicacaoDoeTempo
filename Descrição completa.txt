@@ -1,0 +1,18 @@
+Descrição completa :
+DoeTempo é um aplicativo que permite o cadastro de Entidades Sociais 
+e de suas necessidades de serviço voluntário. Também é
+possível o cadastro de pessoas que tenham tempo disponível e que queiram
+exercer atividades sociais como voluntários.
+
+Outro recurso do aplicativo permite que as pessoas possam pesquisar as vagas de atividades
+compatíveis com seus horários disponíveis e efetivem sua candidatura à vaga como voluntários.
+
+A Entidade Social poderá avaliar os Candidatos e aprovar os de sua preferência;
+nesse caso o Candidato passa para uma lista de Aprovados e recebe uma mensagem
+de aprovação com informações para contato com a Entidade Social.
+
+Entidades Sociais que podem utilizar o aplicativo : Abrigos de Animais, Casas de Repouso,
+Orfanatos, Hospitais, Albergues, Escolas Especiais entre outros.
+
+
+
